@@ -1,0 +1,5 @@
+target/
+dbtablemonitor-*.zip
+.classpath
+.settings/
+.project

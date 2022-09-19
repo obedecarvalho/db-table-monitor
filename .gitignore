@@ -3,3 +3,6 @@ dbtablemonitor-*.zip
 .classpath
 .settings/
 .project
+src/main/java/com/dbtablemonitor/Dev.java
+db-table-monitor.db
+dbtablemonitor_src
